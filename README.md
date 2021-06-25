@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # charts
 
 
-### git clone this repositry
-### cd charts
-### npm i
-### npm start
+### `git clone https://github.com/chaluatmaa/charts.git`
+### `cd charts`
+### `npm i`
+### `npm start`
