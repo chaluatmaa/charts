@@ -18,4 +18,4 @@ In the project directory, you can run:
 ### datasets , to take objects or array of objects for plotting the graph
 ### datasets array of objects have two mandatory keys "label" and "data"
 ### `labels` takes the array of `strings`
-### `label` takes the String as heading and `data` takes the array fro plotting.
+### `label` takes the `string` as heading and `data` takes the array of `constants` for plotting.
