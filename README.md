@@ -76,7 +76,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### `npm i`
 ### `npm start`
 
-# The data is taken in two parts , `labels and datasets`
-# labels for labelling the graphs
-# datasets , to take objects or array of objects for plotting the graph
-# datasets array of objects have two mandatory keys "label" and "data"
+### The data is taken in two parts , `labels and datasets`
+### labels for labelling the graphs
+### datasets , to take objects or array of objects for plotting the graph
+### datasets array of objects have two mandatory keys "label" and "data"
