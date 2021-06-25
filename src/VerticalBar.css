@@ -1,0 +1,9 @@
+.container {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.chart {
+	margin: 100px auto;
+	/* height: 500px !important; */
+}
