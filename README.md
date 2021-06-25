@@ -78,7 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
  # `We are using react-charts-2 for the task since it's light weight and animated by default which also saves extra work of animation and avoids bloating of the app. react-charts-2 is the wrapper react wrapper of light-weight JS Library Charts.js`
 
-### The data is taken in two parts , `labels and datasets`
+### The data is taken in two parts , `labels` and `datasets`
 ### labels for labelling the graphs
 ### datasets , to take objects or array of objects for plotting the graph
 ### datasets array of objects have two mandatory keys "label" and "data"
