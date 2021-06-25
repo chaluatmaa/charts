@@ -19,3 +19,5 @@ In the project directory, you can run:
 ### datasets array of objects have two mandatory keys "label" and "data"
 ### `labels` takes the array of `strings`
 ### `label` in the `datasets` takes the `string` as heading and `data` in `datasets` takes the array of `constants` for plotting.
+
+![Graphs](https://user-images.githubusercontent.com/22262666/123425341-a6ee7200-d5df-11eb-93d6-763a6ea23a69.png)
