@@ -20,4 +20,5 @@ In the project directory, you can run:
 ### `labels` takes the array of `strings`
 ### `label` in the `datasets` takes the `string` as heading and `data` in `datasets` takes the array of `constants` for plotting.
 
-![Graphs](https://user-images.githubusercontent.com/22262666/123425341-a6ee7200-d5df-11eb-93d6-763a6ea23a69.png)
+![screencapture-localhost-3002-2021-07-02-17_26_04](https://user-images.githubusercontent.com/22262666/124271324-f6dab500-db5a-11eb-811f-11db73a3ab5a.png)
+
